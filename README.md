@@ -14,7 +14,7 @@ Follow the following instructions:
 
 1) First Of all Upload all the files to a publically access able web server so that instagram can redirect user to your server after authentication.
 
-2) First of all register an application at http://instagram.com/developer/
+2) Register an application at http://instagram.com/developer/
 
 3) On the registration form enter http://yourwebsite.com/instagram/redirect.php as redirect URI for "OAuth redirect_uri" field.
 
